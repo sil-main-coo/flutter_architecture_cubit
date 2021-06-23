@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "connectionTimedOut": "The connection has timed out. Please try again",
+  "connectionProblem": "There are some problems with the connection. Please try again",
+  "invalidCredentials": "Invalid credentials",
+  "responseNull": "Response is null",
+  "login": "Login"
+}
