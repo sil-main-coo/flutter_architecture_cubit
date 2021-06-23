@@ -40,10 +40,6 @@ It use build_runner to generate files. If you make a change to these files, you 
 ```
 flutter pub run build_runner build
 ```
-generator using build_runner and remove conflict file :
-```
-npm run generate
-```
 
 ### Localization
 Using this library to handle multi-languages. Follow this guide to understand and config languages files
